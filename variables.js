@@ -12,3 +12,8 @@ var girlScout = true
 var boyScout = false
 // console.log (name)
 console.log (studentName)
+studentName = "Jack Revelett"
+pronouns = "he/him"
+dateOfBirth ="March 25, 2005"
+favoriteFood = "Anything Cajun"
+console.log (studentName) (pronouns) (dateOfBirth) (favoriteFood)
