@@ -10,5 +10,5 @@ var englishSpeaker = true
 var spanishSpeaker = false
 var girlScout = true
 var boyScout = false
-console.log (name)
+// console.log (name)
 console.log (studentName)
