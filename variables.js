@@ -6,3 +6,7 @@ var schoolGrade = 12
 var numPets = 4
 var numSiblings = 2
 var driverTestScore = 93
+var englishSpeaker = true
+var spanishSpeaker = false
+var girlScout = true
+var boyScout = false
