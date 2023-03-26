@@ -16,4 +16,8 @@ studentName = "Jack Revelett"
 pronouns = "he/him"
 dateOfBirth ="March 25, 2005"
 favoriteFood = "Anything Cajun"
-console.log (studentName) (pronouns) (dateOfBirth) (favoriteFood)
+// console.log (studentName) (pronouns) (dateOfBirth) (favoriteFood)
+console.log (studentName)
+console.log (pronouns)
+console.log (dateOfBirth)
+console.log (favoriteFood)
