@@ -1,4 +1,4 @@
-var name = "Logan McSorley"
+var studentName = "Logan McSorley"
 var pronouns = "she/her"
 var dateOfBirth = "May 20, 2005"
 var favoriteFood = "Spaghetti"
@@ -10,3 +10,5 @@ var englishSpeaker = true
 var spanishSpeaker = false
 var girlScout = true
 var boyScout = false
+console.log (name)
+console.log (studentName)
